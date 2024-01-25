@@ -1,0 +1,30 @@
+cd
+mv 
+ren
+ls
+pwd
+mkdir
+more
+rmdir
+cp
+ls -l
+chmod g+m
+groups
+man -k user
+man finger
+finger greg
+cd ~jester
+find . -name "joke*
+cat joke-1 joke-2
+cat joke-1 joke-2 > ~/corny
+lpr -P zephyr corny
+lprm -P zephyr 737
+lpq
+cp -r ~bookie/pools ~
+df
+df .
+rm -r pools
+ps aux
+ps aux | grep rogue
+kill 796
+kill -9 796
